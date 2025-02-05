@@ -105,5 +105,5 @@ public class FirstScreen implements Screen {
     public void resume() {}
 
     @Override
-    public void hide() {}
+    public void hide() {} //commit 0.0.0(FirstScreen update) [p[p
 }
