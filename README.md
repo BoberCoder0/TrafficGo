@@ -77,4 +77,4 @@ For example, `core:clean` removes `build` folder only from the `core` project.
 
 ##Links
 - Telegram Chennel: [@Traffic_Go_offical](https://t.me/Traffic_Go_offical)
-- Email: samatohasanoff@yandex.ru<a href=”samatohasanoff@yandex.ru”>
+- Email: <a href=”samatohasanoff@yandex.ru”>samatohasanoff@yandex.ru</a>
