@@ -41,9 +41,15 @@ This project was generated with a template including simple application launcher
 
 ## Platforms
 
+
 - `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
+- `Windows`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
 - `android`: Android mobile platform. Needs Android SDK.
+- `ios` : There is no support.
+
+> [!IMPORTANT]
+> If you want to add support for other platforms, feel free to use my project.For all questions: samatohasanoff@yandex.ru
+
 
 ## Gradle
 
@@ -68,3 +74,7 @@ Useful Gradle tasks and flags:
 
 Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
 For example, `core:clean` removes `build` folder only from the `core` project.
+
+##Links
+- Telegram Chennel: [@Traffic_Go_offical](https://t.me/Traffic_Go_offical)
+- Email: [samatohasanoff@yandex.ru](samatohasanoff@yandex.ru)
