@@ -1,6 +1,6 @@
-# TarafficGo
+![Image](https://github.com/user-attachments/assets/3ffa30ba-a060-4f52-bee3-7aef07085c76)
 
-![Image](https://github.com/user-attachments/assets/1f20429d-de6a-4cc4-b898-24de20eb2a34)
+# TarafficGo
 
 Have you ever been stuck in traffic and wished you could do something to fix it? In Mini Motorways, the city’s traffic problems are in your hands.
 
